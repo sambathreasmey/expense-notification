@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: expense-notification
+server:
+  port: 8181
+
+telegram-bot-token: 8161861211:AAEL-qiDcVL3yGiSlI_I_I75gjEGSDnUCuM
